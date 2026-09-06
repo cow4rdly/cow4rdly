@@ -1,5 +1,4 @@
 
-<img src="https://komarev.com/ghpvc/?username=w0trqx&label=&style=plastic&color=4b5f52&base=1306" width="85">
 
 
 <p align="center">
