@@ -1,6 +1,3 @@
 
+<img width="500" height="280" alt="tải xuống (20)" src="https://github.com/user-attachments/assets/53375ee3-628a-4f79-bb8f-1dab9d24294e" />
 
-
-<p align="center">
-<img width="800" height="450" alt="original_c044a033f147d302cbfda74ef5e3e9eb_gif (800×450) (1)" src="https://github.com/user-attachments/assets/ca52c55a-8fcd-485f-a318-6646aa74a7da" />
-</p>
